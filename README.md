@@ -1,0 +1,2 @@
+# new-cicd-demerik
+THIS A CICD CODE FOR DEPLOYEMENT, A SAMPLE TEST 
